@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run credit_card_defaulters.py
+web: sh setup.sh && streamlit run MODEL.py
